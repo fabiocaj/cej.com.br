@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "sitecej.com.br", "http://localhost/sitecej.com.br", "{40F864E9-45EB-4937-9FDE-A4B8EDB51309}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""$/sitecej.com.br/sitecej.com.br", XXLQAAAA"
+		SccAuxPath = ""
+		SccLocalPath = "."
+		SccProvider = "MSSCCI:Microsoft Visual SourceSafe"
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv2.0"
+		Debug.AspNetCompiler.VirtualPath = "/sitecej.com.br"
+		Debug.AspNetCompiler.PhysicalPath = "..\sitecej.com.br\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\sitecej.com.br\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/sitecej.com.br"
+		Release.AspNetCompiler.PhysicalPath = "..\sitecej.com.br\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\sitecej.com.br\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\sitecej.com.br\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccWebProject0 = true
+		SccProjectUniqueName0 = http://localhost/sitecej.com.br
+		SccProjectName0 = \u0022$/sitecej.com.br/sitecej.com.br\u0022,\u0020XXLQAAAA
+		SccLocalPath0 = C:\\inetpub\\wwwroot\\sitecej.com.br
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		SccProjectEnlistmentChoice0 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40F864E9-45EB-4937-9FDE-A4B8EDB51309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F864E9-45EB-4937-9FDE-A4B8EDB51309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,119 @@
+@charset "utf-8";
+html{
+	height:100%
+	
+	}
+
+body{
+	height:100%;
+	margin:0 0 0 0;
+	background-image:url(imagens/crbst_Fundo_20OK2.png);
+	background-repeat:repeat-x;
+	background-color:#FFF;
+	}
+	
+#CONT{
+		width:900px;
+		margin-left:auto;
+		margin-right:auto;
+	   	min-height: 100%;
+		height:auto;
+	
+	}
+
+	
+#head{
+	width:900px;
+	height:190px;
+	float:left;
+	
+	
+	}
+#top{
+	width:899px;
+	height:34px;
+	float:left;
+	vertical-align:top;
+	
+	
+	}
+#logo{
+	float:left;
+	width:380px;
+	height:113px;
+	}	
+#menu{
+	float:left;
+	background-color:#909;
+	width:900px;
+	height:40px;
+	background-color:#333;
+	
+	}
+#conteudo{
+	width:900px;
+	min-height: 100%;
+	height:auto;
+	float:left;
+	
+	}
+		
+	
+#bottom{
+	
+	height:150px;
+	
+	width:100%;
+	margin-right:auto;
+	margin-left:auto;
+	background-image:url(imagens/rodape.png);
+	
+	}
+.Titulo{
+	background-image:url(imagens/titulo.jpg);
+	background-repeat:no-repeat;
+	background-color:#FFF;
+	margin:0 0 0 0;
+	font-family:Impact;
+	color:#FFF;
+	padding-left:5px;
+	padding-top:6px;
+	height:35px;
+	font-size:18pt;
+	
+	
+	
+	}	
+#jair{
+	background-image:url(imagens/jair.png);
+	width:448px;
+	height:681px;
+	float:left;
+	}
+#banner{
+	background-image:url(imagens/banner.png);
+	width:448px;
+	height:280px;
+	float:right;
+	}	
+#box-L{
+	margin-bottom:5px;
+
+	width:448px;
+	float:left;
+	}	
+#box-R{
+	margin-bottom:5px;
+	width:448px;
+	float:right;
+	vertical-align:top;
+	}	
+#box{
+	background-color:#ebebeb;
+	width:100%;
+	height:250px;
+	
+	}	
+#baixo{
+	clear:both;}	
+	

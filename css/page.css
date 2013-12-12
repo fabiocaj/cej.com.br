@@ -1,0 +1,10 @@
+*{margin:0;padding:0;}body{font:10px Georgia,Serif;}a,a img{border:0;text-decoration:none;outline:0;}
+
+.CalendarDay
+{
+	background-color:red;
+}
+.CalendarDay:hover
+{
+	background-color:red;
+}

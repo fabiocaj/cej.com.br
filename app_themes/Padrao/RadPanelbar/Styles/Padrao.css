@@ -1,0 +1,52 @@
+.ItensMenuSaude
+{
+padding-left:18px;	
+color: #333;
+font: normal 9px Arial, Verdana, Sans-serif;
+cursor: hand;
+cursor: pointer;
+text-decoration: none;
+height: 21px;
+line-height:25px;
+background-image: url(../Img/fundoitenssaudedede.jpg); /* menu filho */
+}
+.ItensMenuSaude:hover
+{
+padding-left:18px;
+color: #333;
+font: normal 9px Arial, Verdana, Sans-serif;
+cursor: hand;
+cursor: pointer;
+text-decoration: none;
+height: 21px;
+line-height:25px;
+background-image: url(../Img/fundoitenssaud2dede.jpg); /* menu filho */
+}
+
+
+.ItensMenuPrincipalSaude
+{
+color: #333;
+font: normal 9px Arial, Verdana, Sans-serif;
+text-decoration: none;
+font-weight:bold;
+height: 39px;
+line-height:39px;
+text-transform:uppercase;
+background-image: url(../Img/menupai.png);
+background-repeat:no-repeat;
+background-position:0px 3px; 
+padding-left:18px;
+}
+.ItensMenuPrincipalSaude td
+{
+color: #333;
+font: normal 9px Arial, Verdana, Sans-serif;
+text-decoration: none;
+height: 39px; 
+background-position:-900px;
+line-height:39px;
+text-transform:uppercase;
+font-weight:bold;
+padding-left:0px;
+}

@@ -1,0 +1,9 @@
+ .HeaderArea  { height:33px;background-image:url(../Img/menupaiarea.png);padding-top:5px;padding-left:50px;  
+ 	font-family:arial;font-weight:bold;font-size:12pt;color:#000000;text-transform:uppercase; 
+}
+.ItemArea {	height:23px;line-height:24px;background-image:url(../Img/menufilhoarea.png);padding-left:22px;font-family:arial;
+    font-size:8pt;color:#ffffff;cursor:hand 
+}
+.ItemArea:hover {	height:23px;line-height:24px;background-image:url(../Img/menufilhoarea.png);padding-left:10px;font-family:arial;
+    font-size:8pt;color:#ffffff;cursor:hand 
+}

@@ -1,0 +1,218 @@
+
+.txtAzul {font-family:arial;height:30px;line-height:30px;font-size:11pt;color:#003366;font-weight:bold;
+          text-decoration:none;text-align:left;}
+
+.tabela_principal{border:0}
+
+
+
+#fundo2{margin-top:0;margin-left:0;}
+
+hr{background-color:#CCC;height:1px;}
+
+.pontilhado{background-image:url(../images/pontilhado.gif);background-repeat:repeat-y;width:11px;}
+#Topo 
+{
+	padding-top:1px;
+	
+
+	}
+	
+
+#Topo td{ height:34px; padding-top:5px }
+#Topo .linha_1{padding:0 20px 0 0;font-family:Verdana,Geneva,sans-serif;height:20px;line-height:20px;font-size:10px;
+               color:#FFF;font-weight:bold;text-decoration:none;text-align:right;}
+#Topo .linha_2{padding:15px 15px 0 10px;}
+#Topo .linha_3{height:38px;text-align:right;}
+
+#Logotipo{width:161px;height:130px;}
+
+#HeaderMenu{width:330px}
+#HeaderMenu .espande{text-align:center;}
+#HeaderMenu .link{font-family:Verdana,Geneva,sans-serif;font-size:10px;color:#FFF;font-weight:bold;
+                  text-decoration:none;text-align:center;}
+#HeaderMenu .link:hover{font-family:Verdana,Geneva,sans-serif;font-size:10px;color:#FFF;font-weight:bold;
+                        text-decoration:none;text-align:center;}
+
+.backcolor_publicidade_main{background:#767b76;}
+
+#bordag1{border:1px solid #ccc;}
+
+#Noticias{width:460px;}
+#Noticias select {width:440px; border:1px solid #ccc;}
+#Noticias .header { background-color:#28292a; font-family:Verdana;color:#ffffff; font-size:12pt; height:30px; line-height:30px;
+                    padding:0px 0px 0px 20px; letter-spacing:1px;}
+#Noticias .linha2{padding:5px 0 0 0;}
+#Destaques{width:100%;background-image:url(../images/destaques.gif);background-repeat:no-repeat;}
+
+.Titulo{font-family:Arial;font-weight:bold; height:33px; font-size:12px;text-transform:uppercase;color:#9c0d26;line-height:27px;padding:0 0 0 10px; 
+        background-image:url(../images/backtitulo.gif);background-repeat:no-repeat;}
+        
+#UcHomeRedeDescontos1_lblTitulo{font-family:Arial;font-weight:bold; height:33px; font-size:12px;text-transform:uppercase;color:#9c0d26;
+                                line-height:27px;padding:0 0 0 10px; background-image:url(../images/backtitulo.gif);background-repeat:no-repeat;}
+                                
+.Titulo_claro{font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;color:#000;line-height:27px;padding:5px 0 0 6px;}
+
+.alinhabt{margin-top:-15px; margin-left:-68px; width:81px; height:30px; position:absolute; float:left;}
+
+.back_titulo_news{background-image:url(../images/fundotitnews.gif);background-repeat:repeat-x;background-position:center;}
+
+#Modulos{width:468px;}
+#Modulos .coluna2{padding:0 0 0 8px;}
+
+.Subtitulo{font-family:Arial;font-size:20px;color:#c30d19;text-align:left;height:20px; padding-top:3px;  text-transform:uppercase;  font-weight:bold;}
+
+.Resenha{padding:0px 0 0 0;font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#666;text-align:left;font-weight:100;}
+
+.Resenha_clara{padding:4px 0 0 10px;font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#393838;text-align:left;font-weight:100;}
+
+#Ultimas_Noticias{width:100%;}
+
+.Ultimas_noticias{font-family:Verdana,Geneva,sans-serif;font-size:11px;color:#000;text-decoration:none;text-align:left;padding:3px 3px 0 3px;}
+
+.Ultimas_noticias:hover{font-family:Verdana,Geneva,sans-serif;font-size:11px;text-decoration:none;color:#660000;text-align:left;padding:3px 3px 0 3px;}
+
+.RedeDescontos{background-image:url(../images/rededescontos.gif);background-repeat:no-repeat;font-family:Arial,Helvetica,sans-serif;font-size:16px;
+               font-weight:bold;padding:0 0 0 10px;color:#fff;line-height:27px;text-align:left;}
+
+.TituloRedeDescontos{font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;color:#fff;line-height:27px;padding:0 0 0 10px;}
+
+.TituloRedeDescontosInternas{font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:bold;color:#666;line-height:20px;padding:0 0 0 10px;}
+
+.ImputRedeDescontos{font-family:Arial;font-size:12px;color:#666;font-weight:lighter;border:1px solid color:#066609;font-style:italic;}
+
+.btConsultaRede{background-image:url(../images/consultaredeon.png);height:29px;width:84px;background-color:Transparent;background-repeat:no-repeat;
+                border:none;cursor:hand;}
+                
+.header_resultado{background-image:url(../images/backresultadotitulo.gif);height:40px;background-repeat:repeat-x;}
+.observacao{font-family:Arial;font-size:12px;color:#666;font-weight:bold;padding:0 0 0 55px;}
+.endereco{font-family:Arial;font-size:12px;color:#666;font-weight:normal;padding:0 0 0 55px;}
+old; text-align:left;}
+#fontegaleriaimagem {font-family:Arial; font-size:23px; color:#000; padding: 0px 15px 0px 5px; font-weight:bold;}
+
+.TxtNoticia{font-family:Arial;font-size:12px;color:#000;}
+
+.TxtTituloNoticia{font-family:Arial; font-size:17px; color:#000; padding: 0px 15px 0px 5px; font-weight:bold;
+                  text-align:left;}
+#fontegaleriaimagem {font-family:Arial; font-size:23px; color:#000; padding: 0px 15px 0px 5px; font-weight:bold;}
+
+.PadraoTituloMain{background-image:url(../images/backusceesptitulo.gif);height:48px;background-repeat:no-repeat;background-position:left;}
+.TxtNoticia{font-family:Arial;font-size:12px;color:#000;}
+.TxtTituloNoticia{font-family:Arial;font-size:22px;color:#fff; padding: 0px 15px 0px 5px; font-weight:bold;}
+
+.PadraoTituloMain{background-image:url(../images/backusceesptitulo.gif);height:48px;background-repeat:no-repeat;background-position:left;}
+.PadraoTituloMain{background-image:url(../images/corretoras.jpg);background-repeat:repeat-x;background-position:left;}
+
+.secaoquemsomos{background-image:url(../images/back_quemsomos.gif);height:48px;background-repeat:no-repeat;background-position:left;}
+.SegurosTituloMain{background-image:url(../images/back_segurosefinancas.gif);height:48px;background-repeat:no-repeat;background-position:left;}
+.PadraoTituloMain{background-image:url(../images/backusceespttulo.gif);height:10px;background-repeat:no-repeat;background-position:left;}
+
+.secaoquemsomos{background-image:url(../images/back_quemsomos.gif);height:48px;background-repeat:no-repeat;background-position:left;}
+.secaosejaparceiro{background-image:url(../images/back_sejaparceiro.gif);height:48px;background-repeat:no-repeat;background-position:left;}
+.secaofaleconosco{background-image:url(../images/back_faleconosco.gif);height:48px;background-repeat:no-repeat;background-position:left;}
+
+.Saude{background-image:url(../images/Saude.gif);background-repeat:no-repeat;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;padding:0 0 0 10px;color:#fff;line-height:27px;text-align:left;} 
+.tdPublicidade {border:#CCC 1px solid;}
+.Topo_Geral{height:231px;}
+.ajustetdbig{ padding:30px 0px 0px 0px;}
+.bgright{ }
+.repetrodape{background-image:url(../images/rodapeback.jpg); width:100%;}
+
+#Downloads td{ font-family:Arial; font-size:9pt; color:#000000;}
+#Downloads hr {height:1px;  width:100%; color:#cccccc; }
+#Downloads .linecombo { border:1px dotted #cccccc; height:30px; line-height:30px; background-color:#f2f2f2}
+
+#RelacaoPlayVideo{}
+#RelacaoPlayVideo .RelacaoVideos{ text-align:center; background-image:url(../images/funforelacaovideos.gif); background-repeat:repeat-x;
+                                   width:100%;}
+#RelacaoPlayVideo th{ text-align:center; font-family:Arial; font-size:9pt; line-height:20px; color:#ffffff; font-weight:normal; 
+                      background-color:#000000;}
+                                   
+#tbEventos{width:100%}
+#tbEventos a {font-family:Arial; font-size:9pt; color:#ed1d24}
+#tbEventos a:hover {font-family:Arial; font-size:9pt; color:#ed1d24; text-decoration:underline}
+#tbEventos .dataevento {font-family:Arial; font-size:8pt; color:#999999}
+.tituloeventohome {font-family:Arial; font-size:8pt; color:#cc0000; font-weight:bold}
+.tituloeventohome:hover {font-family:Arial; font-size:8pt; color:#cc0000; font-weight:bold}
+
+#fundomembro{background-image:url(../images/fundomembros.jpg); background-position:left top; width:118px; height:115px;
+             padding:5px 0px 0px 12px; background-repeat:no-repeat }
+
+
+.topcorretora { background-image:url(../images/); background-repeat:repeat-x;}
+.leftcorretora { background-image:url(../images/corretora_11.gif); background-repeat:repeat-y;}
+.rightcorretora { background-image:url(../images/corretora_10.gif); background-repeat:repeat-y;}
+.bottomcorretora { background-image:url(../images/corretora_15.gif); background-repeat:repeat-x;} 
+
+                        
+.rodapegabriel { background-image:url(../images/rodape.gif);}
+.minitracado { background-image:url(../images/minitracado.gif); background-repeat:repeat-y;}
+
+.fundodecelula { background-color: #f1f1f1;}
+
+.tracoultimanoticias{ border-bottom:1px solid #cccccc;}
+
+#newsletter{background-image:url(../images/newsletter.png); background-repeat:no-repeat; width:456px; height:150px; background-position:0px 20px}
+
+.MessNewsletter{background-image:url(../images/messNews.png); width:456px; height:96px; margin:-62px 0px 0px 0px; position: absolute; 
+                background-repeat:no-repeat;} 
+                            
+.MessNewsletter2{background-image:url(../images/messNews2.png); width:456px; height:96px; margin:-62px 0px 0px 0px; position: absolute; 
+                 background-repeat:no-repeat;}  
+                            
+.MessNewsletter3{background-image:url(../images/messNews3.png); width:456px; height:96px; margin:-62px 0px 0px 0px; position: absolute; 
+                 background-repeat:no-repeat;} 
+                             
+#ucnewsletter1_txtEmail{background-image:url(../images/newsletternew_02.png); background-position:left top; border-width:0px; line-height:30px; 
+                        height:30px;font-family:Arial; color:#ffffff; }             
+
+	                 
+.cima { background-image:url(../images/layoutseguros_04.gif); background-repeat:repeat-x; vertical-align:text-top; height:49px;}
+.direita { background-image:url(../images/layoutseguros_12.gif); background-repeat:repeat-y;}
+.esquerda { background-image:url(../images/layoutseguros_10.gif); background-repeat:repeat-y;}
+.baixo { background-image:url(../images/layoutseguros_17.gif); background-repeat:repeat-x;}	                 
+#DestaquesHome {width:322px}	                 
+#semimagem { padding:10px 0px 0px 0px}
+.Links	   {font-family:Arial;font-size:11px;color:#666;text-align:left;font-weight:100;  padding-left:8px;}
+.Links:hover	   {font-family:Arial;font-size:11px;color:#666;text-align:left;font-weight:100; text-decoration:underline }
+#ucPublicidadeLeft1_dlPublicidadesLeft img { border-bottom:1px solid #999999;}
+
+#fundomembro{background-image:url(../images/fundomembros.jpg); background-position:left top; width:118px; height:115px;
+             padding:5px 0px 0px 12px; background-repeat:no-repeat }
+
+#GaleriaImagem{width:100%;background-image:url(../images/membros.gif);background-repeat:no-repeat;}
+
+#ucGaleriaPesquisa1_gvGalerias th ,
+#ucGaleriaPesquisa1_gvCategorias th ,
+#ucGaleriaPesquisa1_gvAlbuns th {font-family:Arial;font-size:9pt;color:#000; background:#cccccc;line-height:19px}
+
+#ucGaleriaPesquisa1_gvGalerias a ,
+#ucGaleriaPesquisa1_gvCategorias a ,
+#ucGaleriaPesquisa1_gvAlbuns a {font-family:Arial;font-size:9pt;color:#000; }
+
+#ucGaleriaPesquisa1_gvGalerias span ,
+#ucGaleriaPesquisa1_gvCategorias span ,
+#ucGaleriaPesquisa1_gvAlbuns span {font-family:Arial;font-size:9pt;color:#000; }
+
+.spancaminho {font-family:Arial;font-size:9pt;color:#666666; font-style:italic; }
+
+.CampoPesquisaImagens { background-color:#ebecef; height:60px; padding:0px 0px 0px 10px; border:1px dashed #666666}
+
+/* classes de botões*/
+.btComum
+{
+	font-family:Arial;
+	font-size:8pt;
+	color:#ffffff; 
+	background-color:#908e8e;
+
+     width:88px; 
+     height:26px;
+      border:0;
+       cursor:hand;
+       line-height:22px;
+       
+       
+       }
+
+#CalendarDay {background-color:#ff0000;} 

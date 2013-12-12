@@ -1,0 +1,43 @@
+﻿<style type="text/css">
+/* cria a div pop-up*/
+#popup{
+position: absolute; /*Define a posição absoluta da pop-up*/
+top: 41%; /*Distancia da margem superior da página */
+left: 30%; /*Distancia da margem esquerda da página */
+width: ---width---; /*Largura da pop-up*/
+height: ---height---; /*Altura da pop-up*/
+padding: 20px 20px 20px 20px; /*Margem interna da pop-up*/
+border-width: 1px; /*Largura da borda da pop-up*/
+border-style: solid; /*Estilo da borda da pop-up*/
+background: ---cor---; /*Cor de fundo da pop-up*/
+color: #000066; /*Cor do texto da pop-up*/
+display: none; /* Estilo da pop-up*/
+/*fim pop-up*/
+}
+#popup2{
+position: absolute; /*Define a posição absoluta da pop-up*/
+top: 37%; /*Distancia da margem superior da página */
+left: 40%; /*Distancia da margem esquerda da página */
+width: ---width---; /*Largura da pop-up*/
+
+}
+</style>
+
+<script language="javascript">
+// Função que fecha o pop-up ao clicar no botao fechar
+function fechar(){
+    document.getElementById('popup').style.display = 'none';
+    document.getElementById('popup2').style.display = 'none';
+}
+// Aqui definimos o tempo para fechar o pop-up automaticamente
+function abrir(){
+    document.getElementById('popup').style.display = 'block';
+    
+setTimeout ("fechar()", 180000);
+}
+</script>
+<div id="popup2" class="popup2" ><small><a href="javascript: fechar();">
+<img alt="Botão Fechar POP-UP" src="layout/mundialline/images/btFecharPOPUP.png"  /></a></small></div>
+<div id="popup" class="popup">
+---conteudo---<br />
+</div>
